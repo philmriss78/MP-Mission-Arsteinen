@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <territory color="2550103484">
+        <zone name="AnimalPig" smin="0" smax="0" dmin="1" dmax="1" x="4907.5" z="12825" r="50"/>
+    </territory>
+    <territory color="2264890812">
+        <zone name="AnimalPig" smin="0" smax="0" dmin="1" dmax="1" x="7601.25" z="4646.25" r="100"/>
+    </territory>
+    <territory color="2432662972">
+        <zone name="AnimalPig" smin="0" smax="0" dmin="1" dmax="1" x="2535" z="8272.5" r="120"/>
+    </territory>
+    <territory color="2466217404">
+        <zone name="AnimalPig" smin="0" smax="0" dmin="1" dmax="1" x="1065" z="7162.5" r="120"/>
+        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="715" z="3240" r="75"/>
+        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="995" z="3835" r="75"/>
+        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="1145" z="4270" r="75"/>
+        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="760" z="4875" r="75"/>
+        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="540" z="5145" r="75"/>
+        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="2990" z="4645" r="75"/>
+        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="2710" z="5135" r="75"/>
+        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="985" z="11410" r="75"/>
+        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="1150" z="11365" r="75"/>
+        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="1095" z="11500" r="75"/>
+        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="1080" z="10900" r="75"/>
+        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="870" z="10725" r="75"/>
+        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="760" z="10355" r="75"/>
+        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="1205" z="10490" r="75"/>
+        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="2325" z="11020" r="75"/>
+        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="2160" z="10560" r="75"/>
+        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="1910" z="9750" r="75"/>
+        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="3595" z="12180" r="75"/>
+        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="4005" z="12485" r="75"/>
+        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="4680" z="12665" r="75"/>
+        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="4860" z="9260" r="75"/>
+        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="4580" z="9220" r="75"/>
+        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="2370" z="7770" r="75"/>
+        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="2150" z="7855" r="75"/>
+        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="2605" z="7555" r="75"/>
+        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="2835" z="7065" r="75"/>
+        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="2845" z="6660" r="75"/>
+        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="2040" z="6100" r="75"/>
+        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="1310" z="5830" r="75"/>
+        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="960" z="5500" r="75"/>
+        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="795" z="4105" r="75"/>
+        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="1450" z="3775" r="75"/>
+        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="1825" z="3650" r="75"/>
+        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="2215" z="3235" r="75"/>
+        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="2630" z="3375" r="75"/>
+    </territory>
+    <territory color="2197781948">
+        <zone name="AnimalPig" smin="0" smax="0" dmin="1" dmax="1" x="6768.75" z="6386.25" r="100"/>
+    </territory>
+    <territory color="2583657916">
+        <zone name="AnimalPig" smin="0" smax="0" dmin="1" dmax="1" x="7952.5" z="7557.5" r="75"/>
+    </territory>
+    <territory color="4294945535">
+        <zone name="AnimalPig_New" smin="0" smax="0" dmin="3" dmax="5" x="12120" z="9951" r="75.0001"/>
+        <zone name="AnimalPig_New" smin="0" smax="0" dmin="3" dmax="5" x="11835" z="8799.55" r="75.0001"/>
+        <zone name="AnimalPig_New" smin="0" smax="0" dmin="3" dmax="5" x="11877.3" z="9349.09" r="75.0001"/>
+        <zone name="AnimalPig_New" smin="0" smax="0" dmin="3" dmax="5" x="12153.3" z="9641.67" r="75.0001"/>
+        <zone name="AnimalPig_New" smin="0" smax="0" dmin="3" dmax="5" x="11275" z="9726.67" r="75.0001"/>
+        <zone name="AnimalPig_New" smin="0" smax="0" dmin="3" dmax="5" x="10865" z="9200" r="75.0001"/>
+        <zone name="AnimalPig_New" smin="0" smax="0" dmin="3" dmax="5" x="10760" z="9596.67" r="75.0001"/>
+    </territory>
+    <territory color="2315222460">
+        <zone name="AnimalPig" smin="0" smax="0" dmin="1" dmax="1" x="4647.86" z="7390.71" r="120"/>
+    </territory>
+    <territory color="2164227516">
+        <zone name="AnimalPig" smin="0" smax="0" dmin="1" dmax="1" x="12213.8" z="5480" r="75"/>
+    </territory>
+    <territory color="2348776892">
+        <zone name="AnimalPig" smin="0" smax="0" dmin="1" dmax="1" x="4830.36" z="6390" r="120"/>
+    </territory>
+    <territory color="4278190080">
+        <zone name="AnimalPig" smin="0" smax="0" dmin="3" dmax="5" x="1096.88" z="11379.4" r="75"/>
+    </territory>
+    <territory color="2516549052">
+        <zone name="AnimalPig" smin="0" smax="0" dmin="1" dmax="1" x="1564.43" z="13500" r="50"/>
+    </territory>
+</territory-type>
