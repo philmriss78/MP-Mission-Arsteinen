@@ -14,34 +14,33 @@
         <tag name="floor"/>
         <tag name="shelves"/>
         <tag name="ground"/>
-		<tag name="civilian" />
     </tags>
     <usageflags>
-        <usage name="Military"/>
-        <usage name="Police"/>
-        <usage name="Medic"/>
-        <usage name="Firefighter"/>
-        <usage name="Industrial"/>
-        <usage name="Farm"/>
-        <usage name="Coast"/>
-		<usage name="City"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
-        <usage name="Hunting"/>
-        <usage name="Office"/>
-        <usage name="School"/>
-        <usage name="Prison"/>
-        <usage name="Lunapark"/>
-        <usage name="SeasonalEvent"/>
-        <usage name="ContaminatedArea"/>
-		<usage name="Historical"/>
-		<usage name="Underground"/>
-    </usageflags>
+            <usage name="Military"/>
+            <usage name="Police"/>
+            <usage name="Medic"/>
+            <usage name="Firefighter"/>
+            <usage name="Industrial"/>
+            <usage name="Farm"/>
+            <usage name="Coast"/>
+            <usage name="Town"/>
+            <usage name="Village"/>
+            <usage name="Hunting"/>
+            <usage name="Office"/>
+            <usage name="School"/>
+            <usage name="Prison"/>
+            <usage name="SeasonalEvent"/>
+            <usage name="ContaminatedArea"/>
+            <usage name="Biergarten"/>
+            <usage name="Labyrinth"/>
+            <usage name="Bunker"/>
+        </usageflags>
     <valueflags>
-        <value name="Tier1"/>
-        <value name="Tier2"/>
-        <value name="Tier3"/>
-        <value name="Tier4"/>
-		<value name="Tier5"/>
+            <value name="Tier1"/>
+            <value name="Tier2"/>
+            <value name="Tier3"/>
+            <value name="Tier4"/>
+            <value name="Tier5"/>
+            <value name="Tier6"/>
     </valueflags>
 </lists>
