@@ -28,8 +28,8 @@
 			"TriggerType": "ContaminatedTrigger",
 			"Data": { 
 				"Pos": [ 4752.13, 6.5362, 1818.76 ],
-				"Radius": 200,
-				"PosHeight": 18,
+				"Radius": 300,
+				"PosHeight": 28,
 				"NegHeight": 10,
 				"InnerRingCount": 2,
 				"InnerPartDist": 50,
