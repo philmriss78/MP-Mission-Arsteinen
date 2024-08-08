@@ -1,81 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory-type>
-    <territory color="2466250684">
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="6675" z="6630" r="125"/>
+    <territory color="872412928">
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="3381.54" z="4476.9" r="80"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="3425.47" z="4702.62" r="80"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="3448.21" z="4575.96" r="100"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="3423.21" z="4827.62" r="70"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="3446.67" z="4974.17" r="60"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="780" z="7260" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="352.5" z="5617.5" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="975" z="9510" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="1852.5" z="10102.5" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="2647.5" z="11257.5" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="3232.5" z="11782.5" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="3832.5" z="12292.5" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="4567.5" z="12660" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="5107.5" z="13125" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="2602.5" z="13597.5" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="2422.5" z="12952.5" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="2152.5" z="12180" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="1612.5" z="11730" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="1207.5" z="12367.5" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="570" z="13027.5" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="637.5" z="13695" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="802.5" z="14190" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="1042.5" z="14632.5" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="1807.5" z="14670" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="2370" z="14655" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="2917.5" z="14535" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="3712.5" z="14025" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="4387.5" z="13942.5" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="4530" z="13560" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="3720" z="13102.5" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="5632.5" z="13237.5" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="6307.5" z="6690" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="6495" z="6105" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="6960" z="5797.5" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="7335" z="5272.5" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="4050" z="6832.5" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="4485" z="5872.5" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="4125" z="5467.5" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="4087.5" z="4687.5" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="4387.5" z="3052.5" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="2895" z="3450" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="1747.5" z="4290" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="2145" z="3465" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="1575" z="1470" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="2775" z="1762.5" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="3915" z="1237.5" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="4245" z="637.5" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="8287.5" z="817.5" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="7297.5" z="2467.5" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="7777.5" z="3277.5" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="6157.5" z="2527.5" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="6382.5" z="4687.5" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="11400" z="8700" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="11475" z="7950" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="11790" z="7582.5" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="12180" z="7515" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="12330" z="9817.5" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="7155" z="8310" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="7957.5" z="8220" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="8197.5" z="7800" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="10170" z="8340" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="10042.5" z="6817.5" r="150"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="9652.5" z="7095" r="150"/>
     </territory>
-    <territory color="2197815228">
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="3002.5" z="6772.5" r="125"/>
-    </territory>
-    <territory color="2701131708">
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="4159.81" z="12741.9" r="50"/>
-    </territory>
-    <territory color="2852126652">
-        <zone name="AmbientSheep" smin="0" smax="0" dmin="0" dmax="0" x="491.33" z="12338.7" r="50"/>
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="4882.5" z="5302.5" r="125"/>
-    </territory>
-    <territory color="2264924092">
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="330" z="7747.5" r="125"/>
-    </territory>
-    <territory color="2583691196">
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="4275" z="4555" r="125"/>
-    </territory>
-    <territory color="2550136764">
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="11407.5" z="5917.5" r="75"/>
-    </territory>
-    <territory color="2382364604">
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="1212.5" z="14928.1" r="50"/>
-    </territory>
-    <territory color="2617245628">
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="652.5" z="5685" r="125"/>
-    </territory>
-    <territory color="2315255740">
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="4432.5" z="7380" r="125"/>
-    </territory>
-    <territory color="2667577276">
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="6032.25" z="1749" r="50"/>
-    </territory>
-    <territory color="2499805116">
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="6832.5" z="4567.5" r="125"/>
-    </territory>
-    <territory color="2231369660">
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="2445" z="7042.5" r="125"/>
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="1012.5" z="11452.5" r="125"/>
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="1350" z="11467.5" r="125"/>
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="1395" z="10110" r="125"/>
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="1890" z="10800" r="125"/>
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="2917.5" z="11460" r="125"/>
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="3615" z="12015" r="125"/>
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="4035" z="12930" r="125"/>
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="4582.5" z="13455" r="125"/>
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="5565" z="14032.5" r="125"/>
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="2302.5" z="14670" r="125"/>
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="5227.5" z="8190" r="125"/>
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="4267.5" z="9127.5" r="125"/>
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="7950" z="8362.5" r="125"/>
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="8235" z="8002.5" r="125"/>
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="7822.5" z="5017.5" r="125"/>
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="975" z="1170" r="125"/>
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="2775" z="1927.5" r="125"/>
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="3480" z="1342.5" r="125"/>
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="3855" z="592.5" r="125"/>
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="4815" z="315" r="125"/>
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="4342.5" z="1155" r="125"/>
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="6967.5" z="2617.5" r="125"/>
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="5437.5" z="2835" r="125"/>
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="4020" z="3510" r="125"/>
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="2737.5" z="3870" r="125"/>
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="1867.5" z="4440" r="125"/>
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="9495" z="7035" r="125"/>
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="9645" z="7477.5" r="125"/>
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="10260" z="6480" r="125"/>
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="10815" z="6127.5" r="125"/>
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="12375" z="5287.5" r="125"/>
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="13432.5" z="4912.5" r="125"/>
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="12457.5" z="4920" r="125"/>
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="12727.5" z="6165" r="125"/>
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="11490" z="7800" r="125"/>
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="11332.5" z="8527.5" r="125"/>
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="11685" z="9832.5" r="125"/>
-        <zone name="AnimalSheep" smin="0" smax="0" dmin="1" dmax="2" x="10042.5" z="8317.5" r="125"/>
+    <territory color="872412928">
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="4413.5" z="2713.5" r="100"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="4191" z="2923.64" r="110"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="4518.71" z="3026.93" r="80"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="4253.93" z="3174.57" r="110"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="4399.09" z="3305.45" r="80"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="1260" z="11452.5" r="250"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="915" z="11490" r="250"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="4687.5" z="13440" r="250"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="3817.5" z="14287.5" r="250"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="2295" z="14340" r="250"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="1177.5" z="14587.5" r="250"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="127.5" z="13867.5" r="250"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="1507.5" z="13177.5" r="250"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="555" z="12847.5" r="250"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="1035" z="10522.5" r="250"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="532.5" z="10117.5" r="250"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="4747.5" z="9292.5" r="250"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="7702.5" z="8122.5" r="250"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="8212.5" z="7912.5" r="250"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="7485" z="5160" r="250"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="7807.5" z="5865" r="250"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="6457.5" z="6105" r="250"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="4147.5" z="4425" r="250"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="3225" z="4740" r="250"/>
+        <zone name="AnimalSheep" smin="3" smax="6" dmin="3" dmax="6" x="1747.5" z="5415" r="250"/>
     </territory>
 </territory-type>
