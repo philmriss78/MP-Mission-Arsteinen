@@ -1,70 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory-type>
-    <territory color="2533425113">
-        <zone name="AnimalCow" smin="0" smax="0" dmin="1" dmax="2" x="4095" z="427.5" r="100"/>
-    </territory>
-    <territory color="2415984601">
-        <zone name="AnimalCow" smin="0" smax="0" dmin="1" dmax="2" x="2265.83" z="15023.3" r="50"/>
-    </territory>
-    <territory color="2130771929">
-        <zone name="AnimalCow" smin="0" smax="0" dmin="1" dmax="2" x="5310" z="4440" r="100"/>
-    </territory>
-    <territory color="2600533977">
-        <zone name="AnimalCow" smin="0" smax="0" dmin="1" dmax="2" x="1975" z="10172.5" r="50"/>
-    </territory>
-    <territory color="2449539033">
-        <zone name="AnimalCow" smin="0" smax="0" dmin="1" dmax="2" x="6382.5" z="2220" r="100"/>
+    <territory color="2499870681">
+        <zone name="AnimalCow" smin="0" smax="0" dmin="1" dmax="2" x="4732.5" z="742.5" r="100"/>
     </territory>
     <territory color="2332098521">
         <zone name="AnimalCow" smin="0" smax="0" dmin="1" dmax="2" x="7327.5" z="5640" r="100"/>
     </territory>
+    <territory color="2533425113">
+        <zone name="AnimalCow" smin="0" smax="0" dmin="1" dmax="2" x="4095" z="427.5" r="100"/>
+    </territory>
+    <territory color="2600533977">
+        <zone name="AnimalCow" smin="0" smax="0" dmin="1" dmax="2" x="1975" z="10172.5" r="50"/>
+    </territory>
     <territory color="2214658009">
         <zone name="AnimalCow" smin="0" smax="0" dmin="1" dmax="2" x="4057.5" z="6060" r="100"/>
+    </territory>
+    <territory color="2449539033">
+        <zone name="AnimalCow" smin="0" smax="0" dmin="1" dmax="2" x="6382.5" z="2220" r="100"/>
     </territory>
     <territory color="2566979545">
         <zone name="AnimalCow" smin="0" smax="0" dmin="1" dmax="2" x="2475" z="2857.5" r="100"/>
     </territory>
-    <territory color="2248212441">
-        <zone name="AnimalCow" smin="0" smax="0" dmin="2" dmax="3" x="6352.5" z="7290" r="100"/>
+    <territory color="2415984601">
+        <zone name="AnimalCow" smin="0" smax="0" dmin="1" dmax="2" x="2265.83" z="15023.3" r="50"/>
     </territory>
-    <territory color="2499870681">
-        <zone name="AnimalCow" smin="0" smax="0" dmin="1" dmax="2" x="4732.5" z="742.5" r="100"/>
-        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="495" z="9175" r="75"/>
-        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="870" z="9355" r="75"/>
-        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="1235" z="9630" r="75"/>
-        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="1630" z="9870" r="75"/>
-        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="1815" z="10035" r="75"/>
-        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="1605" z="10195" r="75"/>
-        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="1340" z="10455" r="75"/>
-        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="1735" z="10660" r="75"/>
-        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="2025" z="11105" r="75"/>
-        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="2020" z="11475" r="75"/>
-        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="2450" z="11695" r="75"/>
-        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="3190" z="11430" r="75"/>
-        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="3250" z="11815" r="75"/>
-        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="3445" z="12375" r="75"/>
-        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="3870" z="12820" r="75"/>
-        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="4220" z="13115" r="75"/>
-        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="4560" z="13125" r="75"/>
-        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="5160" z="13090" r="75"/>
-        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="5735" z="13235" r="75"/>
-        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="5510" z="13865" r="75"/>
-        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="5480" z="14130" r="75"/>
-        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="4725" z="13930" r="75"/>
-        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="3555" z="14355" r="75"/>
-        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="2450" z="14435" r="75"/>
-        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="1335" z="14600" r="75"/>
-        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="475" z="14635" r="75"/>
-        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="255" z="14115" r="75"/>
-        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="420" z="13520" r="75"/>
-        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="685" z="13795" r="75"/>
-        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="1000" z="14065" r="75"/>
-        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="1395" z="14050" r="75"/>
-        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="985" z="14280" r="75"/>
-        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="5055" z="9405" r="75"/>
-        <zone name="InfectedArmy_New" smin="0" smax="0" dmin="3" dmax="5" x="7250" z="7895" r="75"/>
+    <territory color="2248212441">
+        <zone name="AnimalCow" smin="0" smax="0" dmin="5" dmax="8" x="6352.5" z="7290" r="100"/>
     </territory>
     <territory color="2298544089">
         <zone name="AnimalCow" smin="0" smax="0" dmin="1" dmax="2" x="8505" z="7912.5" r="100"/>
+        <zone name="AnimalCow" smin="0" smax="0" dmin="1" dmax="2" x="277.5" z="7155" r="100"/>
+        <zone name="AnimalCow" smin="0" smax="0" dmin="1" dmax="2" x="892.5" z="7852.5" r="100"/>
+        <zone name="AnimalCow" smin="0" smax="0" dmin="1" dmax="2" x="682.5" z="9352.5" r="100"/>
+        <zone name="AnimalCow" smin="0" smax="0" dmin="1" dmax="2" x="270" z="9277.5" r="100"/>
+        <zone name="AnimalCow" smin="0" smax="0" dmin="1" dmax="2" x="1432.5" z="10237.5" r="100"/>
+        <zone name="AnimalCow" smin="0" smax="0" dmin="1" dmax="2" x="1132.5" z="11482.5" r="100"/>
+        <zone name="AnimalCow" smin="0" smax="0" dmin="1" dmax="2" x="1387.5" z="11475" r="100"/>
+        <zone name="AnimalCow" smin="0" smax="0" dmin="1" dmax="2" x="1702.5" z="11835" r="100"/>
+        <zone name="AnimalCow" smin="0" smax="0" dmin="1" dmax="2" x="390" z="13447.5" r="100"/>
+        <zone name="AnimalCow" smin="0" smax="0" dmin="1" dmax="2" x="772.5" z="13875" r="100"/>
+        <zone name="AnimalCow" smin="0" smax="0" dmin="1" dmax="2" x="982.5" z="14272.5" r="100"/>
+        <zone name="AnimalCow" smin="0" smax="0" dmin="1" dmax="2" x="4807.5" z="13980" r="100"/>
+        <zone name="AnimalCow" smin="0" smax="0" dmin="1" dmax="2" x="5497.5" z="14010" r="100"/>
+        <zone name="AnimalCow" smin="0" smax="0" dmin="1" dmax="2" x="5160" z="12585" r="100"/>
+        <zone name="AnimalCow" smin="0" smax="0" dmin="1" dmax="2" x="3135" z="11632.5" r="100"/>
+    </territory>
+    <territory color="2130771929">
+        <zone name="AnimalCow" smin="0" smax="0" dmin="1" dmax="2" x="5310" z="4440" r="100"/>
     </territory>
 </territory-type>
