@@ -1441,38 +1441,30 @@
 						<proxy type="Grenade_ChemGas" pos="-2.340942 0.272278 -1.834350" rpy="0.000000 -179.999985 0.000000" dechance="0.250000" />
 				</dispatch>
 		</group>
-		<group name="Land_BBaG_Trailer" lootmax="15">
-				<container name="lootFloor" lootmax="15">
-					<category name="tools" />
-						<category name="containers" />
-						<category name="clothes" />
-						<category name="food" />
-						<category name="weapons" />
-						<tag name="floor" />
-						<tag name="shelves" />
-						<point pos="-3.660218 -1.511133 -0.747803" range="0.134375" height="0.335938" />
-						<point pos="-5.188050 -1.487791 -0.553956" range="0.168750" height="0.421875" />
-						<point pos="-6.361786 -1.474339 -0.424318" range="0.203125" height="0.507813" />
-						<point pos="-3.550293 -1.555975 -2.536621" range="0.203125" height="0.507813" />
-						<point pos="-2.769746 -1.517029 -2.799561" range="0.203125" height="0.507813" />
-						<point pos="-6.174928 -1.774635 -1.928222" range="0.216064" height="0.540161" />
-						<point pos="-4.700715 -1.854195 -1.203125" range="0.334039" height="0.211958" />
-						<point pos="-3.084625 -1.796867 -1.247071" range="0.393962" height="0.169039" />
-						<point pos="-7.857819 -1.816639 -0.384278" range="0.407959" height="1.019897" />
-						<point pos="-3.818542 -1.811153 -1.685303" range="0.460957" height="1.302490" />
-						<point pos="-5.446472 -1.813892 -1.698241" range="0.548840" height="1.410522" />
-						<point pos="-1.758788 -1.888990 -2.302246" range="0.597443" height="1.493607" flags="32" />
-						<point pos="-6.652740 -1.799643 -1.263429" range="0.603010" height="0.139997" />
-						<point pos="-2.693787 -1.888990 1.671386" range="0.703328" height="2.000000" flags="32" />
-						<point pos="-1.599335 -1.888990 -0.949219" range="0.764948" height="1.163458" flags="32" />
-						<point pos="-9.951996 -1.888990 -2.661621" range="0.932135" height="2.000000" flags="32" />
-						<point pos="-9.645112 -1.888990 1.531249" range="1.199951" height="2.000000" flags="32" />
-						<point pos="-7.113404 -1.888990 1.797849" range="1.199951" height="2.000000" flags="32" />
-						<point pos="-4.582459 -1.888990 1.906738" range="1.199951" height="2.000000" flags="32" />
-						<point pos="-5.150909 -1.888990 -4.171387" range="1.199951" height="2.000000" flags="32" />
-				</container>
-		</group>		
-		<group name="Land_lootbox_wooden_industrial" lootmax="1">
+		<group name="Land_BBaG_Trailer" lootmax="3">
+            <usage name="Farm" />
+            <usage name="Town"/>
+            <usage name="Village"/>
+            <container name="lootFloor" lootmax="1">
+                <category name="tools" />
+                <category name="containers" />
+                <category name="clothes" />
+                <point pos="0.116151 0.713809 0.040841" range="1" height="1" /> 
+                <point pos="0.772365 1.496759 3.633859" range="1" height="1" /> 
+            </container>
+            <container name="foods" lootmax="1">
+                <category name="food" />
+                <point pos="-0.116769 1.579231 -1.813492" range="1" height="1" /> 
+                <point pos="0.167868 1.579231 -1.242702" range="1" height="1" /> 
+                <point pos="1.135361 1.356798 -0.384216" range="1" height="1" /> 
+                <point pos="-0.999701 1.805310 0.674895" range="1" height="1" /> 
+            </container>
+            <container name="weapons" lootmax="1">
+                <category name="weapons" />
+                <point pos="-0.096613 1.496759 3.460656" range="1" height="1" /> 
+            </container>
+        </group>	
+	<group name="Land_lootbox_wooden_industrial" lootmax="1">
 	<usage name="Industrial" />
 	<usage name="Military" />
 	<container name="lootFloor" lootmax="1">
