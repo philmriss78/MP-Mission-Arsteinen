@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <territory color="2195300295">
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="10158.8" z="7155" r="75"/>
+    </territory>
+    <territory color="2614730695">
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="4635" z="14404.5" r="50"/>
+    </territory>
+    <territory color="2497290183">
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="1350" z="6127.5" r="100"/>
+    </territory>
+    <territory color="2312740807">
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="1800" z="4522.5" r="100"/>
+    </territory>
+    <territory color="2396626887">
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="6810" z="4395" r="100"/>
+    </territory>
+    <territory color="2698616775">
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="1572.5" z="9726.25" r="50"/>
+    </territory>
+    <territory color="2279186375">
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="2797.5" z="885" r="100"/>
+    </territory>
+    <territory color="2581176263">
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="6375" z="5302.5" r="100"/>
+    </territory>
+    <territory color="2665062343">
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="4890" z="4837.5" r="100"/>
+    </territory>
+    <territory color="2463735751">
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="3307.5" z="5527.5" r="100"/>
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="1117.5" z="11460" r="100"/>
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="1297.5" z="11482.5" r="100"/>
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="1545" z="11857.5" r="100"/>
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="2302.5" z="13612.5" r="100"/>
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="1485" z="13462.5" r="100"/>
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="997.5" z="14250" r="100"/>
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="1410" z="14745" r="100"/>
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="1980" z="14865" r="100"/>
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="2497.5" z="14775" r="100"/>
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="2985" z="14047.5" r="100"/>
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="4057.5" z="13950" r="100"/>
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="3277.5" z="13365" r="100"/>
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="2587.5" z="12750" r="100"/>
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="2505" z="12165" r="100"/>
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="4462.5" z="9180" r="100"/>
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="4957.5" z="9217.5" r="100"/>
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="5092.5" z="8280" r="100"/>
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="7155" z="8377.5" r="100"/>
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="7702.5" z="8280" r="100"/>
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="8355" z="7867.5" r="100"/>
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="7860" z="6502.5" r="100"/>
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="7657.5" z="5565" r="100"/>
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="7657.5" z="5130" r="100"/>
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="6270" z="6135" r="100"/>
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="1087.5" z="5137.5" r="100"/>
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="2347.5" z="4500" r="100"/>
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="1440" z="1117.5" r="100"/>
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="1845" z="802.5" r="100"/>
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="2520" z="1597.5" r="100"/>
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="3172.5" z="1477.5" r="100"/>
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="4425" z="1102.5" r="100"/>
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="8092.5" z="847.5" r="100"/>
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="1155" z="255" r="100"/>
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="2175" z="142.5" r="100"/>
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="4620" z="240" r="100"/>
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="4905" z="832.5" r="100"/>
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="2812.5" z="3922.5" r="100"/>
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="2640" z="3180" r="100"/>
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="4905" z="3150" r="100"/>
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="5182.5" z="2737.5" r="100"/>
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="7020" z="2625" r="100"/>
+    </territory>
+    <territory color="2346295239">
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="3915" z="3127.5" r="100"/>
+    </territory>
+    <territory color="2547621831">
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="4020" z="1417.5" r="100"/>
+    </territory>
+    <territory color="2228854727">
+        <zone name="AnimalGoat" smin="0" smax="0" dmin="1" dmax="2" x="1327.5" z="1747.5" r="100"/>
+    </territory>
+</territory-type>

@@ -1,0 +1,75 @@
+{
+    "Areas": [
+        { 	"AreaName": "Oil_Rig", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 8300.6, 16.4, 1499.42 ],
+				"Radius": 200,
+				"PosHeight": 100,
+				"NegHeight": 10,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+		{ 	"AreaName": "Ship_Odin", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "ContaminatedTrigger",
+			"Data": { 
+				"Pos": [ 4752.13, 6.5362, 1818.76 ],
+				"Radius": 300,
+				"PosHeight": 28,
+				"NegHeight": 10,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/contaminated_area_gas_bigass"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		}
+    ],
+
+	"SafePositions":[
+		[360.43, 8521.67],
+		[2418.41, 7904.09],
+		[1699.54, 6010.73],
+		[2322.93, 5902.92],
+		[277.45, 5599.69],
+		[2355.81, 4667.29],
+		[596.17, 4114.22],
+		[2115.81, 4100.23],
+		[1677.15, 1581.16],
+		[2267.67, 800.94],
+		[4810.07, 2228.14],
+		[4555.94, 2660.10],
+		[5478.27, 2343.13],
+		[6370.01, 2527.20],
+		[6689.76, 1916.05],
+		[4490.58, 3705.39],
+		[3446.15, 5573.55],
+		[6820.88, 5597.99],
+		[6246.47, 7088.91],
+		[7410.82, 7850.16]
+		
+		
+	]
+}
