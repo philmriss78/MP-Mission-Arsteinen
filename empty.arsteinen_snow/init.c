@@ -5,9 +5,10 @@ void main()
 	if ( ce )
 		ce.InitOffline();
 //GetCEApi().ExportProxyData( "8000 0 8000", 20480 );  //Center of map, radius of how far to go out and find buildings.
+//GetCEApi().ExportClusterData();
 	//DATE RESET AFTER ECONOMY INIT-------------------------
 	int year, month, day, hour, minute;
-	int reset_month = 2, reset_day = 1;
+	int reset_month = 9, reset_day = 20;
 	GetGame().GetWorld().GetDate(year, month, day, hour, minute);
 
 	if ((month == reset_month) && (day < reset_day))
@@ -36,26 +37,8 @@ class CustomMission: MissionServer
 	{
 		if ( itemEnt )
 		{
-			float rndHlt = Math.RandomFloat( 0.25, 0.65 );
+			float rndHlt = Math.RandomFloat( 0.45, 0.65 );
 			itemEnt.SetHealth01( "", "", rndHlt );
-		}
-	}
-	
-	void SetLowHealth(EntityAI itemEnt)
-	{
-		if ( itemEnt )
-		{
-			float rndHlt = Math.RandomFloat( 0.15, 0.35 );
-			itemEnt.SetHealth01( "", "", rndHlt );
-		}
-	}
-	
-	void SetQuantity(EntityAI itemEnt)
-	{
-		if ( itemEnt )
-		{
-			float rndHlt = Math.RandomInt( 1, 5 );
-			itemEnt.SetQuantity(rndHlt);
 		}
 	}
 
@@ -83,31 +66,32 @@ class CustomMission: MissionServer
 			SetRandomHealth( itemClothing );
 			
 			itemEnt = itemClothing.GetInventory().CreateInInventory( "BandageDressing" );
+			if ( Class.CastTo( itemBs, itemEnt ) )
+				itemBs.SetQuantity( 2 );
 			player.SetQuickBarEntityShortcut(itemEnt, 2);
-			
-			itemEnt = itemClothing.GetInventory().CreateInInventory( "SteakKnife" );
-			SetLowHealth( itemEnt );
 			
 			string chemlightArray[] = { "Chemlight_White", "Chemlight_Yellow", "Chemlight_Green", "Chemlight_Red" };
 			int rndIndex = Math.RandomInt( 0, 4 );
 			itemEnt = itemClothing.GetInventory().CreateInInventory( chemlightArray[rndIndex] );
 			SetRandomHealth( itemEnt );
 			player.SetQuickBarEntityShortcut(itemEnt, 1);
+
+			rand = Math.RandomFloatInclusive( 0.0, 1.0 );
+			if ( rand < 0.35 )
+				itemEnt = player.GetInventory().CreateInInventory( "Honey" );
+			else if ( rand > 0.65 )
+				itemEnt = player.GetInventory().CreateInInventory( "Marmalade" );
+			else
+				itemEnt = player.GetInventory().CreateInInventory( "Marmalade" );
+			player.SetQuickBarEntityShortcut(itemEnt, 3);
+			SetRandomHealth( itemEnt );
 		}
 		
 		itemClothing = player.FindAttachmentBySlotName( "Legs" );
 		if ( itemClothing )
 			SetRandomHealth( itemClothing );
 		
-		itemClothing = player.FindAttachmentBySlotName( "Feet" );		
-		
-		player.GetStatWater().Set( 4400 );
-		player.GetStatEnergy().Set( 4400 );
-		player.GetStatHeatBuffer().Set(10); // +
-        player.GetStatHeatBuffer().Set(20); // ++
-        player.GetStatHeatBuffer().Set(30); // +++
-		
-		player.SetTemporaryResistanceToAgent(eAgents.INFLUENZA, 900);
+		itemClothing = player.FindAttachmentBySlotName( "Feet" );
 	}
 };
 

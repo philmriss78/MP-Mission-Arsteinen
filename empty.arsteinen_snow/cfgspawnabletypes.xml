@@ -413,7 +413,7 @@
 		<cargo preset="foodVillage" />
 		<cargo preset="toolsMedic" />
 		<cargo chance="0.20">
-			<item name="Mag_FNX45_15Rnd" chance="0.14" />
+			<item name="ScientificBriefcaseKeys" chance="0.50" />
 			<item name="Ammo_762x54" chance="0.14" />
 			<item name="Ammo_762x39" chance="0.14" />
 		</cargo>
@@ -3858,27 +3858,6 @@
             <item name="Mag_SV98_10Rnd" chance="1.0" />
         </attachments>
     </type>
- <type name="Zmbm_Mummy">
-        <nominal>0</nominal>
-        <lifetime>1800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
-    </type>
-<type name="AssaultBag_Winter">
-        <nominal>0</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="containers"/>
-        <usage name="Military"/>
  <type name="PlateCarrierVest_Black">
         <damage min="0.1" max="0.6" />
         <attachments chance="0.25">
@@ -4019,6 +3998,21 @@
     <type name="Boat_01_Orange">
         <attachments chance="0.10">
             <item name="SparkPlug" chance="1.0" />
+        </attachments>
+    </type>
+<type name="PM73Rak">
+        <damage min="0.0" max="0.40" />
+        <attachments chance="0.30">
+            <item name="Mag_PM73_15Rnd" chance="0.80" />
+            <item name="Mag_PM73_25Rnd" chance="0.20" />
+        </attachments>
+    </type>
+    <type name="R12">
+        <attachments chance="0.30">
+            <item name="UniversalLight" chance="0.30" />
+        </attachments>
+        <attachments chance="0.30">
+            <item name="ReflexOptic" chance="0.30" />
         </attachments>
     </type>
 

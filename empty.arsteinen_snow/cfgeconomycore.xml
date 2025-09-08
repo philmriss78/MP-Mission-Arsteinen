@@ -37,7 +37,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	</defaults>
       <ce folder="types">
 			<!-- Types -->
-			<file name="tweaks_types.xml" type="trerik" />
+			<file name="types_trerik_clothing.xml" type="types" />
 	</ce>
 </economycore>
 
