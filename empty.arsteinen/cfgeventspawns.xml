@@ -1280,6 +1280,12 @@
 				<pos x="13603.048828" z="5159.658203" />
 				<pos x="13722.032227" z="5610.357422" />
 		</event>
+	<event name="StaticScientist">
+		<pos x="12138.7"  z="9731.29" a="0"/> 
+		<pos x="11285.8"  z="9631.14" a="0"/> 
+		<pos x="12754.27" z="8432.67" a="0"/>	
+		<pos x="11924.3" z="6495.59" a="0"/>
+    </event>		
     <event name="VehicleTransitBus" />
     <event name="InfectedVillage" />
     <event name="InfectedSolitude" />
