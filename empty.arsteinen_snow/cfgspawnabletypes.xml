@@ -2,6 +2,31 @@
 
 <spawnabletypes>
 	<damage min="0.0" max="0.0" />
+	<type name="ScientificBriefcase">
+		<damage min="0.0" max="0.0" />
+		<cargo chance="1.0">
+			<item name="PunchedCard" />
+		</cargo>
+		<cargo chance="1.0">
+			<item name="Iceaxe" />
+		</cargo>
+		<cargo chance="1.0">
+			<item name="TetracyclineAntibiotics" />
+		</cargo>
+		<cargo chance="1.0">
+			<item name="GPSReceiver" />
+		</cargo>
+		<cargo chance="1.0">
+			<item name="AntiChemInjector" />
+		</cargo>
+		<cargo chance="1.0">
+			<item name="CrabCan" />
+		</cargo>
+		<cargo chance="1.0">
+			<item name="Battery9V" />
+		</cargo>
+		<hoarder />
+	</type>
 	<type name="Barrel_Blue">
 		<hoarder />
 	</type>
