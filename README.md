@@ -9,4 +9,8 @@ Upload MPMission Arsteinen
 
 
 
+Please also load the area flags into the mission folder.
+
+
+
 
