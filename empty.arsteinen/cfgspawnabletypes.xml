@@ -4040,7 +4040,34 @@
             <item name="ReflexOptic" chance="0.30" />
         </attachments>
     </type>
-
+		  <!-- 1.29 -->
+    <type name="WinterMilitaryCoat_Brown">
+        <cargo preset="mixArmy" />
+    </type>
+    <type name="WinterMilitaryCoat_Grey">
+        <cargo preset="mixArmy" />
+    </type>
+    <type name="WinterMilitaryCoat_DarkGrey">
+        <cargo preset="mixArmy" />
+    </type>
+    <type name="MilitarySweater_Livonia">
+        <cargo preset="mixArmy" />
+    </type>
+    <type name="MilitarySweater_Chernarus">
+        <cargo preset="mixArmy" />
+    </type>
+    <type name="MilitarySweater_NoPatch">
+        <cargo preset="mixArmy" />
+    </type>
+    <type name="PilotJacket_Brown">
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="PilotJacket_Black">
+        <cargo preset="mixVillage" />
+    </type>
+    <type name="PilotJacket_Yellow">
+        <cargo preset="mixVillage" />
+    </type>
 <!--
 	<type name="V3S_Chassis">
 		<attachments chance="1.00">
