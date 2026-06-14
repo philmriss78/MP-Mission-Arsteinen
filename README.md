@@ -13,4 +13,4 @@ Please also load the area flags into the mission folder.
 
 
 
-
+Areaflag.xml -----> https://discord.com/channels/977665751366369380/1211190428271902731
