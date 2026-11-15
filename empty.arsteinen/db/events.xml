@@ -743,6 +743,7 @@
         <active>1</active>
         <children>
             <child lootmax="15" lootmin="10" max="5" min="1" type="Wreck_UH1Y"/>
+			<child lootmax="8" lootmin="6" max="3" min="1" type="StaticObj_Wreck_Chinook_DE"/>
         </children>
     </event>
     <event name="StaticPoliceCar">
@@ -973,6 +974,8 @@
             <child lootmax="0" lootmin="0" max="5" min="3" type="Hatchback_02"/>
             <child lootmax="0" lootmin="0" max="5" min="3" type="Hatchback_02_Black"/>
             <child lootmax="0" lootmin="0" max="5" min="3" type="Hatchback_02_Blue"/>
+			<child lootmax="0" lootmin="0" max="2" min="1" type="Offroad_02_Beige"/>
+			<child lootmax="0" lootmin="0" max="2" min="1" type="Offroad_02"/>
         </children>
     </event>
     <event name="VehicleOffroadHatchback">
@@ -1177,4 +1180,69 @@
             <child lootmax="4" lootmin="0" max="0" min="50" type="ZmbM_HandymanNormal_Beige"/>
         </children>
     </event>
+		<event name="StaticContainerLocked">
+        <nominal>5</nominal> <!--  change this-->
+        <min>3</min>		<!---- change this-->
+        <max>0</max>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>250</cleanupradius>
+		<secondary>InfectedArmy</secondary>
+        <flags deletable="1" init_random="0" remove_damaged="0"/>
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>1</active>		<!--	is active!!!!!!!-->
+        <children>
+            <child lootmax="8" lootmin="4" max="10" min="10" type="Land_Mil_ContainerHabitat_Armory_Locked_Green_DE"/>	<!----	is new!!!!!-->
+	<!--			
+            <child lootmax="9" lootmin="5" max="12" min="5" type="Land_ContainerLocked_Blue_DE"/>
+            <child lootmax="9" lootmin="5" max="12" min="5" type="Land_ContainerLocked_Yellow_DE"/>
+			
+			<child lootmax="9" lootmin="5" max="12" min="5" type="Land_ContainerLocked_Orange_DE"/>
+            <child lootmax="9" lootmin="5" max="12" min="5" type="Land_ContainerLocked_Red_DE"/>
+			-->
+        </children>
+    </event>
+<event name="VehicleMotorbike">
+        <nominal>25</nominal>
+        <min>5</min>
+        <max>11</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="2" min="1" type="Motorbike_01_Blue"/>
+            <child lootmax="0" lootmin="0" max="2" min="1" type="Motorbike_01_Red"/>
+            <child lootmax="0" lootmin="0" max="2" min="1" type="Motorbike_01_Yellow"/>
+            <child lootmax="0" lootmin="0" max="2" min="1" type="Motorbike_02_Blue"/>
+            <child lootmax="0" lootmin="0" max="2" min="1" type="Motorbike_02_Green"/>
+            <child lootmax="0" lootmin="0" max="2" min="1" type="Motorbike_02_Red"/>
+            <child lootmax="0" lootmin="0" max="2" min="1" type="Motorbike_02_Yellow"/>
+        </children>
+    </event>
+<event name="StaticTrailer">
+        <nominal>0</nominal>
+        <min>2</min>
+        <max>4</max>
+        <lifetime>2100</lifetime>
+        <restock>0</restock>
+        <saferadius>0</saferadius>
+        <distanceradius>120</distanceradius>
+        <cleanupradius>0</cleanupradius>
+        <flags deletable="1" init_random="1" remove_damaged="0"/>
+        <position>fixed</position>
+        <limit>parent</limit>
+        <active>1</active>
+        <children>
+        <child lootmax="0" lootmin="0" max="1" min="1" type="InfectedVillage"/>
+    </children>
+    </event>	
 </events>
